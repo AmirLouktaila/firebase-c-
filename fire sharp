@@ -18,8 +18,8 @@ namespace firebase_sharp
     {
         FirebaseConfig con = new FirebaseConfig
         {
-            AuthSecret = "LZEC7gy52sRqGeO9ynkfT9kAjivSjsW3tYXLNVFm",
-            BasePath = "https://safaa-34687-default-rtdb.firebaseio.com/"
+            AuthSecret = "eee",
+            BasePath = "sqed"
             
         };
         FirebaseClient client;
